@@ -1,0 +1,11 @@
+//for App
+java -jar "C:\payara-micro\payara-micro-6.2025.9.jar" --deploy "C:\Backup\ICT\Sem 3\MSA\Hello World\MSAApp\artifact\MSAApp.war"  --port 8085
+
+//for Client 
+java -jar "C:\payara-micro\payara-micro-6.2025.9.jar" --deploy "C:\Backup\ICT\Sem 3\MSA\Hello World\MSAClient\artifact\MSAClient.war" --port 8086
+
+here example
+java -jar "Path of Jar file" --deploy "get this path from the clen and Butlid and you get the path in bulding war" --port 8085 // for MSA App && --port 8086 //for MSA Client
+
+//run on browser
+http://localhost:8086/MSAClient/MSAServlet
