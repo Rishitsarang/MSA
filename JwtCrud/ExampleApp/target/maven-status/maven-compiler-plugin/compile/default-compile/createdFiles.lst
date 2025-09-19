@@ -1,0 +1,10 @@
+entity\User.class
+ejb\UserBean.class
+com\mycompany\exampleapp\config\Producers.class
+com\mycompany\exampleapp\config\CrossOriginResourceSharingFilter.class
+com\mycompany\exampleapp\service\ExampleService.class
+com\mycompany\exampleapp\config\BootStrap.class
+service\UserService.class
+com\mycompany\exampleapp\service\HealthCheckService.class
+com\mycompany\exampleapp\service\package-info.class
+ejb\UserBeanLocal.class

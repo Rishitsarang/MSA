@@ -139,3 +139,7 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 /Hello World/MSAClient/target/
 /Hello World/MSAApp/target/
+/ExampleApp/target/
+/ExampleClient/target/
+/shakil/MSA_PR_JWT_CRUD-main/MSAClient/target/
+/shakil/MSA_PR_JWT_CRUD-main/MSAResource/target/
